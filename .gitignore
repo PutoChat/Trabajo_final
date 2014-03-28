@@ -16,12 +16,4 @@
 *.exe
 *.out
 *.app
-
-#include <conio.h>
-
-int main(){
-
- printf("Hello World");
-
-
-}
+ 
